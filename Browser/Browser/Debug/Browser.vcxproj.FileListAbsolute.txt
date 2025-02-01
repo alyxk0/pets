@@ -1,0 +1,4 @@
+C:\Users\Alex\source\repos\Browser\Debug\Browser.vcxproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Browser\Debug\Browser.exe
+C:\Users\Alex\source\repos\Browser\Debug\Browser.MyForm.resources
+C:\Users\Alex\source\repos\Browser\Debug\Browser.vcxproj.GenerateResource.cache
